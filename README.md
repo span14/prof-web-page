@@ -6,6 +6,8 @@ Full pages are taking ideas from [Mozilla Official Website](https://www.mozilla.
   - Insert more links to it
   - Change the CSS style of the navigation bar
 - [ ] Carousel
+  - Insert more images with controller
+  - Put css property into css file instead of writing it on html
 - [ ] News in Collage styles
 - [ ] Students List
 - [ ] Research Results List
