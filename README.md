@@ -11,3 +11,6 @@ Full pages are taking ideas from [Mozilla Official Website](https://www.mozilla.
 - [ ] Research Results List
 
 Can add more to it
+
+## Current Sample index page
+![alt sample page](https://github.com/span14/prof-web-page/blob/master/sample.png) 
